@@ -1,0 +1,25 @@
+#overview-tab {
+  margin: 32px 0px 0px 0px;
+}
+
+/* Overview heading */
+#overview-tab .course-overview--heading > .font-heading {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0px 0px 10px 0px;
+}
+#overview-tab .course-overview--heading > p {
+  padding: 0px 0px 20px 0px;
+}
+
+/* Overview grid row */
+#overview-tab .course-overview--grid-row {
+  padding: 20px 0px 20px 0px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #d1d7dc;
+}
+
+.bold-text {
+  font-weight: 700;
+}

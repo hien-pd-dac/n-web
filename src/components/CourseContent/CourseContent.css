@@ -1,0 +1,64 @@
+/* Styles for section */
+#course-content {
+  border-width: 0px 0px 0px 2px;
+  border-style: outset;
+  border-color: #cfd3d6;
+}
+#course-content .section-title {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#course-content .section-info {
+  font-size: 12px;
+}
+
+#course-content .section-body-div {
+  padding: 0px;
+  margin-left: 10px;
+  border-width: 0px 0px 0px 2px;
+  border-style: outset;
+  border-color: #cfd3d6;
+}
+
+#course-content .section-body {
+  padding: 0px;
+}
+
+/* Styles for lesson */
+
+/* #course-content .lesson { */
+/* margin-left: 10px; */
+/* border-width: 0px 0px 0px 2px; */
+/* border-style: outset; */
+/* border-color: #90969a; */
+/* } */
+
+#course-content .lesson-header {
+  margin-left: 15px;
+}
+
+#course-content .lesson-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#course-content .lesson-info {
+  font-size: 12px;
+}
+
+#course-content .lesson-body {
+  padding: 5px 0px 5px 50px;
+  /* border-width: 0px 0px 0px 5px; */
+  /* border-style: outset; */
+  /* border-color: #90969a; */
+}
+
+#course-content .resource-title {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+#course-content .resource-info {
+  font-size: 12px;
+}
